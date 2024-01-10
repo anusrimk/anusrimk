@@ -5,7 +5,7 @@
 
 
 <h3 align="center">
-    <font color="blue">Enthusiastic Computer Science Student | 1st year | Loves Paintings</font>
+    <font color="blue">Enthusiastic Computer Science Student 👩🏻‍🎓| 1st year 👩🏻‍💻| Creative🎨</font>
 </h3>
 
 <div align="center">
@@ -65,11 +65,12 @@
 <p>
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </p>
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
 </div>
 </p>
+    
 <div align="left">
   <h4>Languages:</h4>
 <p align="left">
