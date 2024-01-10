@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anusrimk.anusrimk" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey;+Welcome+to+my+profile;+I'm+Anusri+Karmokar!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!!🚀;+I+am+Anusri+Karmokar🤗;+Welcome+to+my+Profile!💻" />
 
 
 <h3 align="center">
@@ -19,9 +19,9 @@
 
 
 
-<div align="left">
-    <div align="left">
-  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" height="120" width="100%">
+<div align="centre">
+    <div align="centre">
+  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" height="350" width="80%">
 </div>
 
    <h2>Get in Touch</h2>
