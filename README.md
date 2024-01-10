@@ -19,8 +19,8 @@
 
 
 
-<div align="centre">
-    <div align="centre">
+<div align="center">
+    <div align="center">
   <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" height="350" width="80%">
 </div>
 
@@ -87,7 +87,7 @@
 
 <div align="left">
   <h2>Recent Activity:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/?username=husainhakim&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues" />
+  <img src="https://github-readme-stats.vercel.app/api/?username=anusrimk&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues" />
 </div>
 
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -95,11 +95,11 @@
 
 <div align="center">
   <h2>GitHub Stats:</h2>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husainhakim&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=husainhakim&theme=solarized" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=husainhakim&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=husainhakim&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=husainhakim&theme=solarized&utcOffset=5.3" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anusrimk&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anusrimk&theme=solarized" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anusrimk&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anusrimk&theme=transparent" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anusrimk&theme=solarized&utcOffset=5.3" />
 </div>
 
 <div align="center">
