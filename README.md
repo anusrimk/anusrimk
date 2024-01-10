@@ -91,15 +91,6 @@
   
   <br/><br/><br/>
 </div>
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-
-<div align="left">
-  <h2>Recent Activity:</h2>
-  <img src="https://github-readme-stats.vercel.app/api/?username=anusrimk&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide=stars,issues" />
-</div>
 
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -129,3 +120,22 @@
 </a>
 
 ![Anusri Karmokar's's Graph](https://github-readme-activity-graph.vercel.app/graph?username=anusrimk&custom_title=Mahajan%20Piyush's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+
+<div align="center">
+  <h2>Quote of the day!</h2>
+ 
+
+<div align="center">
+    
+</p>
+
+[![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+
+
+ </div>
