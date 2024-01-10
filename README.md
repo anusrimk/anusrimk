@@ -21,7 +21,7 @@
 
 <div align="center">
     <div align="center">
-  <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif?w=1200&h=630&crop=1" height="320" width="70%">
+  <img src="https://cdn.donmai.us/original/c6/3c/c63cae1344766f14d9d184e5aafed065.gif" height="300" width="56%">
 </div>
  <br>
     <div align="center">
