@@ -106,13 +106,26 @@
 
 <div align="center">
   <h2>GitHub Stats:</h2>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anusrimk&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anusrimk&theme=solarized" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anusrimk&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anusrimk&theme=transparent" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anusrimk&theme=solarized&utcOffset=5.3" />
-</div>
+  <p align="center">
+  <a href="https://github.com/anusrimk">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anusrimk&theme=radical&border=7F3FBF&background=0D1117" alt="Anusri Karmokar's GitHub streak"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
+<p align="center">
+  <a href="https://github.com/anusrimk">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anusrimk&theme=radical" alt="Anusri Karmokar's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+  <a href="https://github.com/anusrimk">
+    <img alt="Anusri Karmokar Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=anusrimk&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <a href="https://github.com/anusrimk">
+    <img alt="Anusri Karmokar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=anusrimk&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+  </a>
+  <br/>
+</a>
+
+![Anusri Karmokar's's Graph](https://github-readme-activity-graph.vercel.app/graph?username=anusrimk&custom_title=Mahajan%20Piyush's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
