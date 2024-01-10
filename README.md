@@ -5,23 +5,23 @@
 
 
 <h3 align="center">
-    <font color="blue">Enthusiastic Computer Science Student | 1st year | Loves Painting</font>
+    <font color="blue">Enthusiastic Computer Science Student | 1st year | Loves Paintings</font>
 </h3>
 
 <div align="center">
     <p><font color="blue">👨‍💻 I live in Mumbai🇮🇳</font></p>
-    <p><font color="blue">🧑🏻‍🎓 Passionate about Programming and Arts</font></p>
+    <p><font color="blue">🧑🏻‍🎓 I'm passionate about Programming and Arts</font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University</font></p>
     <p><font color="blue">🚀 Exploring the world of tech</font></p>
     <p><font color="blue">🌱 Currently diving deep into Java</font></p>
-    <p><font color="blue">⚡ Passionate about Cyber Security and AR/VR</font></p>
+    <p><font color="blue">⚡ Enthusiastic about Cyber Security and AR/VR</font></p>
 </div>
 
 
 
 <div align="center">
     <div align="center">
-  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" height="350" width="80%">
+  <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif?w=1200&h=630&crop=1" height="350" width="70%">
 </div>
 
    <h2>Get in Touch</h2>
@@ -119,7 +119,7 @@
   <br/>
 </a>
 
-![Anusri Karmokar's's Graph](https://github-readme-activity-graph.vercel.app/graph?username=anusrimk&custom_title=Mahajan%20Piyush's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Anusri Karmokar's's Graph](https://github-readme-activity-graph.vercel.app/graph?username=anusrimk&custom_title=Anusri%20Karmokar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -136,6 +136,7 @@
 
 [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=vue)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
-
-
  </div>
+ <div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
