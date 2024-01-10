@@ -23,8 +23,20 @@
     <div align="center">
   <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif?w=1200&h=630&crop=1" height="350" width="70%">
 </div>
+ <br>
+<h3 align="center">Setting foot in the journey from dreams to reality!🎥🪐 Looking forward to introducting my passion towards Computer Science to the realm of software engineering🌍🚀 .</h3>
+<br>
 
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+<br>
+<br>
    <h2>Get in Touch</h2>
+   
+   <br>
+   <br>
   <p>
     <a href="https://www.instagram.com/anusrriiii/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
@@ -40,17 +52,19 @@
     </a>
   </p>
 </div>
+<br>
+<br>
 <div align="center">
     <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 <div align="left">
   <h2>Skills & Languages:</h2>
-
 <h4>IDEs:</h4>
 <p>
     <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
 </p>
 </div>
