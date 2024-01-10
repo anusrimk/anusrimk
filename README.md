@@ -24,17 +24,18 @@
   <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif?w=1200&h=630&crop=1" height="350" width="70%">
 </div>
  <br>
-<h3 align="center">Setting foot in the journey from dreams to reality!🎥🪐 Looking forward to introducting my passion towards Computer Science to the realm of software engineering🌍🚀 .</h3>
-<br>
-
-
-<div align="center">
+    <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
+<h2 align="center">Setting foot in the journey from dreams to reality!🎥🪐 Looking forward to introducting my passion towards Computer Science to the realm of software engineering🌍🚀 .</h2>
 <br>
+
 <br>
-   <h2>Get in Touch</h2>
-   
+   <h1>Get in Touch</h1>
+   <div align="center">
+    <div align="center">
+  <img src="https://metasocial.ae/wp-content/uploads/2022/11/lineartwebsite.gif" height="80" width="30%">
+</div>
    <br>
    <br>
   <p>
