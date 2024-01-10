@@ -21,7 +21,7 @@
 
 <div align="left">
     <div align="left">
-  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" height="20" width="100%">
+  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif" height="120" width="100%">
 </div>
 
    <h2>Get in Touch</h2>
