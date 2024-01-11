@@ -103,8 +103,15 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Jeevan-04/Jeevan-04/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
+  <p align="left">
+  <a href="https://github.com/anusrimk?tab=repositories" target="_blank">
+    <img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/>
+  </a>
+</p>
+  <br/>
 </div>
+
 
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
