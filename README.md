@@ -143,7 +143,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-
 <div align="center">
   <h2>Quote of the day!</h2>
  
