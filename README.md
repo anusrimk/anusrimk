@@ -32,7 +32,7 @@
     <div align="center">
   <img src="https://metasocial.ae/wp-content/uploads/2022/11/lineartwebsite.gif" height="80" width="30%">
 </div>
-   <br>
+   <br> 
    <br>
   <p>
     <a href="https://www.instagram.com/anusrriiii/" target="_blank">
