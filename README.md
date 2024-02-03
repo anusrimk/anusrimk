@@ -6,7 +6,7 @@
     <font color="blue">Enthusiastic Computer Science Student 👩🏻‍🎓| 1st year 👩🏻‍💻| Creative🎨</font>
 </h3>
 
-<div align="center">  
+<div align="center">   
     <p><font color="blue">👨‍💻 I live in Mumbai🇮🇳</font></p> 
     <p><font color="blue">🧑🏻‍🎓 I'm passionate about Programming and Arts</font></p>
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University x Lets Upgrade</font></p>
