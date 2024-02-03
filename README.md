@@ -34,7 +34,7 @@
 </div>
    <br> 
    <br>
-  <p>
+  <p> 
     <a href="https://www.instagram.com/anusrriiii/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
     </a>
