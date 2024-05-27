@@ -11,7 +11,7 @@
     <p><font color="blue">🧑🏻‍🎓 I'm passionate about Programming and  Visual Arts</font></p>  
     <p><font color="blue">👨‍💻 First-year B.Tech student at ITM Skills University x Lets Upgrade</font></p>
     <p><font color="blue">🚀 Exploring the world of tech</font></p> 
-    <p><font color="blue">🌱 Currently diving deep into JavaScript, Flutter and Dart</font></p> 
+    <p><font color="blue">🌱 Currently diving deep into JavaScript, Flutter and Dart</font></p>  
     <p><font color="blue">⚡ Enthusiastic about Cyber Security and AR/VR</font></p>
 </div>
   
